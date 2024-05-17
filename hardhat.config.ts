@@ -31,6 +31,10 @@ const config: HardhatUserConfig = {
         ethereum: {
             url: process.env.ETHEREUM_URL || "",
             chainId: 1
+        },
+        polygon: {
+            url: process.env.POLYGON_URL || "",
+            chainId: 137
         }
     },
     etherscan: {

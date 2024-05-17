@@ -12,6 +12,7 @@
         "@nomiclabs/hardhat-solhint": "^3.0.1",
         "@typescript-eslint/eslint-plugin": "^6.7.3",
         "@typescript-eslint/parser": "^6.7.3",
+        "axios": "^1.6.8",
         "dotenv": "^16.3.1",
         "ethers": "^6.1.0",
         "hardhat": "^2.17.3",
